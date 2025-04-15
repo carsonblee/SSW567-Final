@@ -1,5 +1,5 @@
 # SSW567 Final Project: Group F
-Check Digit Calculation: Adler 32 algorithm
+**Check Digit Calculation:** Adler 32 algorithm
 
 ## Specifications
 ### Specification #1: Scanning the MRZ of a Travel Document
